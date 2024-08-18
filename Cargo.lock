@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "datetime_rs"
+name = "datetime"
 version = "0.1.0"
